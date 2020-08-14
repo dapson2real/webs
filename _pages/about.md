@@ -1,8 +1,10 @@
 ---
 permalink: /about/
-title: "**Adedapo Noah Awolayo**"
-excerpt: "About me"
+title: "About"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 Welcome to my page. My first name is Adedapo, but prefers **Dapo**. I am an engineer/scientist looking for challenging opportunities in an industrial/academic environment. My keen interest in Data Science has revolved around data wrangling, machine learning, deep learning, and creating informative visualizations from complex datasets. I am always eager and interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools as the need arises. Recently, I have become more interested in applying open-source technologies to solving challenging tasks involving large, complex datasets, with the aim of utilizing different tools for collecting, organizing, cleaning, analyzing, and modeling data.
