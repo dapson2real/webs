@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
+twitter_username: dapson2real
 github_username: dapson2real
 minimal_mistakes_skin: "sunrise" # "default"  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
@@ -71,13 +71,13 @@ author:
       url: "https://dapson2real.github.io/web"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/dapson2real"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dapson2real"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/dapo-awolayo-5697045a/"
 
 footer:
   links:
