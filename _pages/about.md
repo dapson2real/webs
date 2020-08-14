@@ -1,6 +1,7 @@
 ---
 permalink: /about/
-title: "About"
+title: "Adedapo Noah Awolayo"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
